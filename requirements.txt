@@ -1,0 +1,8 @@
+flask
+pandas
+numpy
+scikit-learn
+gunicorn
+spacy
+spacy>=3.0.0
+python -m spacy download en_core_web_sm

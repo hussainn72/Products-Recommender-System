@@ -1,7 +1,5 @@
 # SmartCart - AI Product Recommendation Engine
 
-> **Live Demo:** https://smartcart-chcf.onrender.com/
-
 ## Overview
 SmartCart is an intelligent, content-based e-commerce recommendation engine. Instead of relying on generic product tags or basic SQL queries, it leverages Natural Language Processing (NLP) to understand product attributes and calculate similarity scores. This allows the system to serve highly accurate, personalized product recommendations in real-time.
 

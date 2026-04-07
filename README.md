@@ -31,7 +31,7 @@ To run this application on your local machine:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/hussainn72/Products-Recommender-System.git]([https://github.com/Hussain-Tinwala/SmartCart-Products-Recommender-System.git](https://github.com/hussainn72/Products-Recommender-System.git))
+git clone [https://github.com/hussainn72/Products-Recommender-System.git](https://github.com/hussainn72/Products-Recommender-System.git))
 cd smartcart-ai-recommender
 ```
 
